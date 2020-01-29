@@ -1,0 +1,87 @@
+
+
+.nab {
+    background-color: black;
+    border: white;
+    padding: 10px;
+    height: 17px;
+}
+
+.left a {
+    color: rgba(255, 255, 255, 0.781);
+    font-family: 'Nunito Sans', sans-serif;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    padding-right: 23px;
+    margin: 5px;
+    text-decoration: none;
+    border-right: 2px solid white; 
+    width: 60%;
+    
+}
+#Aboutme{
+    margin-left: 25px;
+}
+#Contact {
+    border: none;
+}
+.Leftbottom {
+    display: block;
+    top: 20px;
+    padding: 10px;
+    width: 50%;
+    height: 600px;
+    background-image: url("../images/IMG_2215\ 2.JPG");
+    background-size: cover;
+    background-position: center;
+    float: left;
+    margin: 30px;
+
+}
+
+.left {
+    float:left;
+}
+
+.right {
+    float: right;
+}
+
+
+.right img {
+margin: 5px;
+size: 3px;
+align-content: center;
+}
+
+
+#Header {
+    color: Gray;
+    font-size: 50px;
+    margin-top: 150px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400px;
+}
+
+#SubHeader {
+    color: lightgray;
+    font-size: 30px;
+    margin-bottom: 40px;
+    font-family: 'Nunito Sans', sans-serif;
+
+}
+#BodyText {
+    color: grey;
+    font-size: 20;
+    margin-bottom: 30px;
+    font-family: 'Nunito Sans', sans-serif;   
+
+}
+
+#SubBodyText {
+    color: grey;
+    font-size: 22;
+    font-family: 'Nunito Sans', sans-serif;
+
+}
